@@ -40,3 +40,5 @@
     <None Update="DemoData\DemoDeployment\DemoDatabase\tables\sourceTable.yml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="DemoData\DemoDeployment\DemoDatabase\tables\tableWithUp.yml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
