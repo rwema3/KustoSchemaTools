@@ -27,3 +27,7 @@
     <ProjectReference Include="..\KustoSchemaTools\KustoSchemaTools.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="DemoData\DemoDeployment\clusters.yml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
