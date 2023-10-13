@@ -31,3 +31,7 @@
     <None Update="DemoData\DemoDeployment\clusters.yml">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
+    <None Update="DemoData\DemoDeployment\DemoDatabase\database.yml">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Update="DemoData\DemoDeployment\DemoDatabase\functions\UP.yml">
