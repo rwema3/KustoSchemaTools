@@ -23,4 +23,7 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\KustoSchemaTools\KustoSchemaTools.csproj" />
+  </ItemGroup>
 
