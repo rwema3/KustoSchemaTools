@@ -8,3 +8,4 @@ These are one time installations required to be able to test your changes locall
 
 ## Submitting a pull request
 
+1. [Fork][fork] and clone the repository
