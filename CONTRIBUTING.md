@@ -10,3 +10,4 @@ These are one time installations required to be able to test your changes locall
 
 1. [Fork][fork] and clone the repository
 1. Make sure the tests pass on your machine
+1. Make sure you follow the style guide
