@@ -19,3 +19,4 @@ These are one time installations required to be able to test your changes locall
 
 Here are a few things you can do that will increase the likelihood of your pull request being accepted:
 
+- Follow the [style guide][https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md].
