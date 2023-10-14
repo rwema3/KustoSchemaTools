@@ -14,3 +14,4 @@ These are one time installations required to be able to test your changes locall
 1. Create a new branch: `git checkout -b my-branch-name`
 1. Make your change, add tests, and make sure all tests still pass
 1. Make sure you follow the style guide
+1. Push to your fork and [submit a pull request][pr]
