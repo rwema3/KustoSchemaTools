@@ -21,3 +21,4 @@ Here are a few things you can do that will increase the likelihood of your pull 
 
 - Follow the [style guide][https://github.com/dotnet/runtime/blob/main/docs/coding-guidelines/coding-style.md].
 - Write tests.
+- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, consider submitting them as separate pull requests.
